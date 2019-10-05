@@ -13,7 +13,7 @@
 
 	<body>
 		
-		
+		<img class="logo" src="3089da5e55e8b1f2d126c65bbc5b61e2.png">
 		
 		<h1>Alpha 3.0</h1>
 		<h2>présentations</h2>
@@ -40,7 +40,7 @@
 				<!-- <a href="slides/" target="_blank" class="item">foo</a> -->
 		</div>
 		
-		
+		<div class="login"></div>
 		
 		<script src="js/maxibear.js"></script>
 		<script src="js/jquery-2.1.1.min.js"></script>
