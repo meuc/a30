@@ -20,8 +20,7 @@
 		
 		
 		<div class="content">
-				<!-- <a href="/slides/test.png" class="item">foo</a> -->
-				<a href="slides/CIBE 01-02 Hygiène en campagne.pptx" target="_blank" class="item">CIBE 01-02</a>
+				<a href="slides/CIBE01-02.pptx" target="_blank" class="item">CIBE 01-02</a>
 				<a href="slides/CIBE 03-06 Protocole d'approche.pptx" target="_blank" class="item">CIBE 03-06</a>
 				<a href="slides/CIBE 07-08 Shock.pptx" target="_blank" class="item">CIBE 07-08</a>
 				<a href="slides/CIBE 09-10 Hémorragies.pptx" target="_blank" class="item">CIBE 09-10</a>
